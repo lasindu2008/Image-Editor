@@ -27,7 +27,7 @@ A Powerful and Useful Bot Which Can :-
 * ✅Remove BG
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Damantha126/Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lasindu2008/Image-Editor)
 
 <HR/>
 
@@ -43,6 +43,6 @@ A Powerful and Useful Bot Which Can :-
 ## New version Avaiilable on Telegram as [Image Editor Bot](https://t.me/TheImageEDiterBot)
 
 ## Special Credits
-- [Damantha](https://github.com/Damantha126) - A Co-Developer of Projectㅤㅤㅤㅤㅤㅤㅤ  
+- [Lasindu](https://github.com/lasindu2008) -Bot Createrㅤㅤㅤㅤㅤㅤ  
 
 
